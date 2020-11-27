@@ -4,7 +4,5 @@
 <p> Hello Guys </p>
 
 
-<<<<<<< HEAD
-=======
+
 <p>I think this might work</p>
->>>>>>> my_cool_feature
